@@ -17,7 +17,7 @@ persist.vendor.btstack.enable.twsplus=true
 persist.vendor.service.bdroid.soc.alwayson=true
 
 # Camera
-vendor.camera.aux.packagelist=org.lineageos.aperture,org.lineageos.aperture.dev
+vendor.camera.aux.packagelist=org.lineageos.aperture,org.lineageos.aperture.dev,org.pixelexperience.faceunlock
 
 # CNE
 persist.vendor.cne.feature=1
