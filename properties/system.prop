@@ -16,10 +16,6 @@ persist.vendor.btstack.enable.lpa=true
 persist.vendor.btstack.enable.twsplus=true
 persist.vendor.service.bdroid.soc.alwayson=true
 
-# Camera
-vendor.camera.aux.packagelist=com.android.camera
-persist.vendor.camera.privapp.list=com.android.camera
-
 # CNE
 persist.vendor.cne.feature=1
 
